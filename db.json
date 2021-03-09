@@ -17,6 +17,12 @@
       "day": "FRIDAY",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "fdas",
+      "day": "fdas",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
